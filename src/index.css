@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 30px;
+}
