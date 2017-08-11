@@ -1,4 +1,4 @@
-# helloTest
+# Blob CDN Example 
 Just doing some testing.
 
 This is used to test hosting a site in azure with blob storage and cdn.
