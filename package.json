@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://schnee72.visualstudio.com/_git/Blobs"
+    "url": "https://github.com/schnee72/blobcdnexample"
   },
   "scripts": {
     "prestart": "babel-node buildScripts/startMessage.js",
@@ -19,7 +19,7 @@
     "postbuild": "babel-node buildScripts/distServer.js",
     "srvbuild": "babel-node buildScripts/build.js"
   },
-  "author": "",
+  "author": "Dustin Schnee",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
